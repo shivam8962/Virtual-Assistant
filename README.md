@@ -23,4 +23,4 @@
 </ul>
 
 <h4> step 6: After all the requirement installation </h4>
-<p> RUN python jarvis.py
+<p> RUN:- <br>python jarvis.py
